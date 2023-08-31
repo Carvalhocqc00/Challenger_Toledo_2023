@@ -8,7 +8,6 @@ Original file is located at
 """
 
 # Instale a biblioteca Dash
-!pip install dash
 
 import dash
 import dash_core_components as dcc
